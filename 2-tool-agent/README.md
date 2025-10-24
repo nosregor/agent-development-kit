@@ -92,9 +92,9 @@ This example uses the same virtual environment created in the root directory. Ma
 
 1. Activated the virtual environment from the root directory:
 ```bash
-pyenv activate agent-development-kit
+pyenv activate project-name
 # If you’re already in that folder, pyenv auto-activates it. To re-trigger manually:
-pyenv local agent-development-kit
+pyenv local project-name
 ```
 
 
